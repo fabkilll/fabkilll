@@ -14,10 +14,10 @@
 ![Github](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![HTML](https://skillicons.dev/icons?i=html)
-
-## ▁ ▂ ▄ ▅ Currently learning ▅ ▄ ▂ ▁
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
+
+## ▁ ▂ ▄ ▅ Currently learning ▅ ▄ ▂ ▁
 ![TS](https://skillicons.dev/icons?i=ts)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
