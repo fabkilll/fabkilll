@@ -37,6 +37,7 @@
 ## ▁ ▂ ▄ ▅ Projects ▅ ▄ ▂ ▁
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fabkilll&repo=fabkilll%2FSythInfiniteBlocks&theme=kacho_ga)](https://github.com/fabkilll/SythInfiniteBlocks)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fabkilll&repo=fabkilll%2Fminecraft-clicker&theme=kacho_ga)](https://github.com/fabkilll/minecraft-clicker)
 
 More will come soon, Thanks for looking through! ❤️
 </div>
