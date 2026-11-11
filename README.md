@@ -69,6 +69,9 @@ const fabkill = {
 <div align="center">
 
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=fabkilll&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="stats" />
+
+<br>
+
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabkilll&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="top languages" />
 
 <br>
