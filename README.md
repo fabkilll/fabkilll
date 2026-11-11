@@ -89,6 +89,9 @@ const fabkill = {
 <a href="https://github.com/fabkilll/SythInfiniteBlocks">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=fabkilll&repo=fabkilll%2FSythInfiniteBlocks&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="SythInfiniteBlocks" />
 </a>
+
+<br>
+
 <a href="https://github.com/fabkilll/minecraft-clicker">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=fabkilll&repo=fabkilll%2Fminecraft-clicker&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="minecraft-clicker" />
 </a>
