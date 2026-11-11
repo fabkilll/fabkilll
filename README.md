@@ -68,16 +68,12 @@ const fabkill = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fabkilll&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabkilll&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="top languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=fabkilll&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fabkilll&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="top languages" />
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabkilll&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9aa0b4" alt="streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabkilll&bg_color=0f0c29&color=24c6dc&line=24c6dc&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -88,10 +84,10 @@ const fabkill = {
 <div align="center">
 
 <a href="https://github.com/fabkilll/SythInfiniteBlocks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabkilll&repo=SythInfiniteBlocks&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="SythInfiniteBlocks" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=fabkilll&repo=fabkilll%2FSythInfiniteBlocks&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="SythInfiniteBlocks" />
 </a>
 <a href="https://github.com/fabkilll/minecraft-clicker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabkilll&repo=minecraft-clicker&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="minecraft-clicker" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=fabkilll&repo=fabkilll%2Fminecraft-clicker&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" alt="minecraft-clicker" />
 </a>
 
 <br>
