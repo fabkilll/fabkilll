@@ -4,7 +4,7 @@
 
 ## ▁ ▂ ▄ ▅ About me ▅ ▄ ▂ ▁
 <p>Hey, I'm fabkill and I study computer science at a higher technical college.<br> I mainly focus on web development (which I am learning right now) and Minecraft Plugin Development. </p>
-<p>I have about 1 year of experience, and I'm always dedicated to learn something new!<br>If you have any questions regarding Minecraft Plugin Development, don't hesitate to contact me on discord!</p>
+<p>I have about 1 year of experience, and I'm always dedicated to learn something new!<br>If you have any questions regarding Minecraft Plugin or Web Development, don't hesitate to contact me on discord!</p>
 
 ## ▁ ▂ ▄ ▅  Tech Stack ▅ ▄ ▂ ▁
 ![Java](https://skillicons.dev/icons?i=java)
